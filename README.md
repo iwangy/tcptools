@@ -15,8 +15,8 @@
 ||11.818/17.687/23.055/4.314 ms|
 ||12.525/17.715/22.076/4.103 ms|
 
-- There was packet loss for the 2nd ping for www.google.com on the 4th packet.
-- The IP address changed for www.amazon.com between pings from 108.138.91.214 to 18.65.233.187.
+- There was packet loss for the 2nd ping for www.google.com on the 4th packet. No packet loss for the other websites.
+- The IP address changed for www.amazon.com between pings from 108.138.91.214 to 18.65.233.187. No changing of IP address for other websites.
 
 ## Using "tracert"
 **www.amazon.com**
@@ -61,8 +61,14 @@
    - 23.45.229.117 - Class A
 
 ## Extra credit: Using "ngrok" (2 pts)
-refer to 'ngrok' dir
+refer to 'ngrok' dir for index.html
+![image](./ngrok/ngrokEC.png)
 
 ## Extra credit: Using packet-capture tools (2 pts)
+![image](./dhcp/dhcpEC.png)
 
+## Extra credit: Extra credit: Spy on your opponents (2 pts)
+TODO
 
+## Extra credit: Insecure web server (2 pts)
+![image](./insecurewebserver/insecureServerEC.png)
