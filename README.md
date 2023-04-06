@@ -4,13 +4,13 @@
 
 | Website           | Stats                         | Packet Loss? | IP change? |
 | ----------------- | ----------------------------- | -------------|------------|
-| www.amazon.com    | 17.495/40.106/77.141/19.916 ms |  No Loss | IP changed between pings from 108.138.91.214 to 18.65.233.187 ||15.901/27.394/50.364/12.163 ms| | |
+| www.amazon.com    | 17.495/40.106/77.141/19.916 ms |  No Loss | IP changed between pings from 108.138.91.214 to 18.65.233.187 |   
+||15.901/27.394/50.364/12.163 ms| | |
 ||16.812/26.986/39.972/9.283 ms| | |
 | www.google.com    | 11.039/26.290/37.309/8.655 ms | Packet loss for the 2nd ping for www.google.com on the 4th packet. | No change |
 ||11.658/33.834/77.469/25.634 ms|
 ||11.468/23.927/43.504/10.729 ms|
-| www.microsoft.com | 9.994/31.542/90.432/29.949 ms | No Loss | No Change |
-||13.736/17.636/22.317/2.827 ms| | |
+| www.microsoft.com | 13.736/17.636/22.317/2.827 ms | No Loss | No Change |
 ||11.818/17.687/23.055/4.314 ms| | |
 ||12.525/17.715/22.076/4.103 ms| | |
 
