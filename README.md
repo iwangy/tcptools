@@ -21,7 +21,7 @@
 ## Using "tracert"
 **www.amazon.com**
 - Target Server's IP address: Timed Out/Never Reached
-- Did not reach target
+- Did not reach target, this is because tracroute uses groups of ICMP messages and usually network admins block ICMP packets to protect their network (through obscuring the structure and preventing DoS)
 - Comcast
 - IP Class
    - 192.168.0.1 - Class C
